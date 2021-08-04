@@ -91,7 +91,7 @@ The users's session will be valid for `30 minutes` after which the user will be 
 
 ## Developers
 
-* [Aayush Bangroo](https://www.google.com)
+* [Aayush Bangroo](https://github.com/AayushBangroo)
 * [Ankit Kharb](https://github.com/Ankit-Kharb)
 * [Ansh Gupta](https://github.com/Ansh8382)
 * [Apoorva S Menon](https://github.com/Apoorva-Menon)
