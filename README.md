@@ -18,7 +18,7 @@ Following services are part of the application:
 
 ## Setup
 
-Launch the above mentioned 4 microservices in your IDE. If any port is unavailable in your machine you can change the port for the respective microservice in the `application.properties` file under `Backend/microservice/src/main/resources/application.properties`
+Launch the above mentioned 4 microservices in your IDE. Import the project as `Maven Project` and wait for the dependencies to install. If any port is unavailable in your machine you can change the port for the respective microservice in the `application.properties` file under `Backend/microservice/src/main/resources/application.properties`
 
 After the 4 microservices are up and running launch the ClaimApp angular application using `ng serve`
 
